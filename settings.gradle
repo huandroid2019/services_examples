@@ -1,0 +1,1 @@
+include ':app', ':servcieex1starter', ':simpleservice'

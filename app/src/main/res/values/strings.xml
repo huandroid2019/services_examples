@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ServiceExample1</string>
+    <string name="android_o_changes">An app is considered to be in the foreground if any of the following is true:
+
+It has a visible activity, whether the activity is started or paused.
+It has a foreground service.
+Another foreground app is connected to the app, either by binding to one of its services or by making use of one of its content providers. For example, the app is in the foreground if another app binds to its:\n
+IME\n
+Wallpaper service\n
+Notification listener\n
+Voice or text service\n
+If none of those conditions is true, the app is considered to be in the background.</string>
+</resources>
